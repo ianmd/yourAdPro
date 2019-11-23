@@ -50,7 +50,7 @@ $(document).ready(function(){
 
 $(function(){
         $(".element").typed({
-            strings: ["Content Creation", "Link Building", "Content Strategy"],
+            strings: ["Content Creation", "Reputation Management", "Content Strategy"],
             typeSpeed: 0
         });
     });
